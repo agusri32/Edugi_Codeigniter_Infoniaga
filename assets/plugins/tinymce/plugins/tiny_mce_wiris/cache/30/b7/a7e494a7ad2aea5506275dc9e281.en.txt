@@ -1,0 +1,1 @@
+limit as straight x rightwards arrow 3 of fraction numerator square root of 3 straight x plus 7 end root minus square root of 4 straight x plus 4 end root over denominator 2 straight x minus 6 end fraction

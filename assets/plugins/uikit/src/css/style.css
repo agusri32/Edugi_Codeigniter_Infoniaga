@@ -1,0 +1,48 @@
+/*@import 'https://fonts.googleapis.com/css?family=Roboto:300,400)';*/
+
+html {
+    /*font: 300 13px/18px "Roboto";*/
+    font: 300 13px/18px "Helvetica Neue",Helvetica,Arial,sans-serif;
+}
+
+.tara-shadow {
+    box-shadow: 0px 1px 3px rgba(30, 50, 70, 0.3), 0px 0px 1px rgba(255, 255, 255, 0.15) inset, 0px 1px 0px rgba(255, 255, 255, 0.12) inset;
+}
+
+.uk-navbar-nav > li > a {
+    /*font: 400 14px/24px "Roboto";*/
+    font: 300 13px/18px "Helvetica Neue",Helvetica,Arial,sans-serif;
+    line-height: 40px;
+    text-shadow: 0px 1px 1px rgba(0, 0, 0, 0.2);
+    text-transform: uppercase;
+}
+
+.uk-dropdown-navbar {
+    margin-top: 15px;
+}
+
+.uk-form input:not([type]), .uk-form input[type="color"], .uk-form input[type="date"], .uk-form input[type="datetime-local"], .uk-form input[type="datetime"], .uk-form input[type="email"], .uk-form input[type="month"], .uk-form input[type="number"], .uk-form input[type="password"], .uk-form input[type="search"], .uk-form input[type="tel"], .uk-form input[type="text"], .uk-form input[type="time"], .uk-form input[type="url"], .uk-form input[type="week"], .uk-form select, .uk-form textarea {
+    height: 25px;
+    font-size: 11px;
+}
+
+legend {
+    color: #f39c12;
+    cursor: pointer;
+}
+
+.uk-panel-box {
+    background: #DCEDC8;
+}
+
+.uk-navbar {
+    background: #F7F7F7 linear-gradient(to bottom, #DCEDC8, #C5E1A5) repeat scroll 0% 0% border-box
+}
+
+.tara-border {
+    border: 1px solid burlywood;
+}
+
+.tara-cursor-pointer{
+    cursor: pointer;
+}

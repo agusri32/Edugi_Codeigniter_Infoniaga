@@ -1,0 +1,1 @@
+fraction numerator p plus 1 over denominator 2 p end fraction

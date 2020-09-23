@@ -1,0 +1,1 @@
+limit as straight x rightwards arrow infinity of open parentheses square root of 9 straight x squared plus 18 straight x minus 3 end root minus 3 straight x minus 5 close parentheses

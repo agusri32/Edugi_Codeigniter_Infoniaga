@@ -1,0 +1,1 @@
+fraction numerator x squared over denominator 3 minus x end fraction semicolon x not equal to 3

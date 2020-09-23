@@ -1,0 +1,1 @@
+fraction numerator 3 a over denominator b cubed c squared end fraction

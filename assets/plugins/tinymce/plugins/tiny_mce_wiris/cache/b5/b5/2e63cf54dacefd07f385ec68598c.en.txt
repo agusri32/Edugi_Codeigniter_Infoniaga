@@ -1,0 +1,1 @@
+fraction numerator a to the power of 7 over denominator b to the power of 6 space c space to the power of 5 end fraction
